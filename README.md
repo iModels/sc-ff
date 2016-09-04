@@ -14,7 +14,7 @@ There are several things to keep in mind when using these files.
 ### Citing
 If you use this force field in your work, please cite the following references (BibTeX citations below):
 - For the water force field, cite [![Citing MSIBI](https://img.shields.io/badge/DOI-10.1007%2F978.981.10.1128.3_3-blue.svg)](http://dx.doi.org/10.1007/978-981-10-1128-3_3)
-- For the lipid force field, cite (citation coming soon!)
+- For the lipid force field, cite [![Citing MSIBI](https://img.shields.io/badge/DOI-10.1021/acs.jpcb.6b08046-blue.svg)](http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b08046)
 
 
 
@@ -28,5 +28,28 @@ If you use this force field in your work, please cite the following references (
   pages={37--52},
   year={2016},
   publisher={Springer}
+}
+```
+- CER NS force field
+```
+@article{moore2016coarse,
+  title={A Coarse-Grained Model of Stratum Corneum Lipids: Free Fatty Acids and Ceramide NS},
+  author={Moore, Timothy Craig and Iacovella, Christopher R and Hartkamp, Remco and Bunge, Annette L and McCabe, Clare},
+  journal={The Journal of Physical Chemistry B},
+  year={2016},
+  publisher={ACS Publications}
+}
+```
+- MS IBI method
+```
+@article{moore2014derivation,
+  title={Derivation of coarse-grained potentials via multistate iterative Boltzmann inversion},
+  author={Moore, Timothy C and Iacovella, Christopher R and McCabe, Clare},
+  journal={The Journal of chemical physics},
+  volume={140},
+  number={22},
+  pages={224104},
+  year={2014},
+  publisher={AIP Publishing}
 }
 ```
