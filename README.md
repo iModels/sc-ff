@@ -1,8 +1,8 @@
 # sc-ff
 
 This repository contains the numerical intermolecular pair potential files for the coarse-grained stratum corneum force field.
-These potentials were derived via multistate iterative Boltzmann inversion (see 
-[![Citing MSIBI](https://img.shields.io/badge/DOI-10.1063%2F1.4880555-blue.svg)](http://dx.doi.org/10.1063/1.4880555)).
+These potentials were derived via multistate iterative Boltzmann inversion (MS IBI, see 
+[![Citing MSIBI](https://img.shields.io/badge/DOI-10.1063%2F1.4880555-blue.svg)](http://dx.doi.org/10.1063/1.4880555) for details).
 
 ### Use
 There are several things to keep in mind when using these files. 
